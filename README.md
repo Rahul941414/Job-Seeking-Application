@@ -1,1 +1,2 @@
 Contributors : Rahul Meena
+Developed a comprehensive job seeking web application using the MERN Stack, showcasing proficiency in MongoDB, Express.js, React, and Node.js. Led the project from backend server setup to frontend interface design, catering to both job seekers and employers. This experience has equipped me with the skills to create professional-grade job portals. Subscribe now to explore the world of MERN Stack development with me!
